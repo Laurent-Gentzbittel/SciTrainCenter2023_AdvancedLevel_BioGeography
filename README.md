@@ -6,7 +6,7 @@ Using data from `WorldClim` repository and combining with genome admixture data,
 To get ready for the tutorials, please download the following software/R packages to your local machine
 
 1. [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
-2. R packages: [pegas](https://cran.r-project.org/web/packages/pegas/), [adegenet](https://cran.r-project.org/web/packages/adegenet/), [mmod](https://cran.r-project.org/web/packages/mmod/), [hierfstat](https://cran.r-project.org/web/packages/hierfstat/), [ape](https://cran.r-project.org/web/packages/ape), [mapplots](https://cran.r-project.org/web/packages/mapplots), [maptools](https://cran.r-project.org/web/packages/maptools), [rworldmap](https://cran.r-project.org/web/packages/rworldmap)
+2. R packages: [adegenet](https://cran.r-project.org/web/packages/adegenet/), [ggplot2](), [mapplots](https://cran.r-project.org/web/packages/mapplots), [maptools](https://cran.r-project.org/web/packages/maptools), [rworldmap](https://cran.r-project.org/web/packages/rworldmap), [raster](https://cran.r-project.org/web/packages/raster), [rgdal](https://cran.r-project.org/web/packages/rgdal), [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer), [psych](https://cran.r-project.org/web/packages/psych), [corrplot](https://cran.r-project.org/web/packages/corrplot)
 
 ## The example scripts for running the analyses can be found in the  sub-directories.
 The genotypes and additonal data are provided in the ../data/ directory
