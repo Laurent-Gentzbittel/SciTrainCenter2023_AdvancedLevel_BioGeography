@@ -1,7 +1,7 @@
 # BioGeography
 ## Using envirotyping data to assess population stucture
 
-Using data from `WorldClim` repository and combining with genome admixture data, we will explore the population structure of a wild legume around the Mediterannean Basin.
+Using data from `WorldClim` repository and combining with data of population stratification, we will explore the population structure of a wild legume around the Mediterannean Basin.
 
 To get ready for the tutorials, please download the following software/R packages to your local machine
 
